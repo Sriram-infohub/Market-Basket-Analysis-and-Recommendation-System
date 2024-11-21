@@ -68,9 +68,3 @@ Market Basket Analysis is a data mining technique used to understand customer pu
   - `matplotlib` for visualizations.
 
 ---
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/market-basket-analysis.git
